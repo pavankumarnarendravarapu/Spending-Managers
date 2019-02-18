@@ -1,0 +1,52 @@
+body{
+	margin: 0 auto;
+	font-size:135%;
+	background-repeat: no-repeat;
+	background-image :url("https://www.taurho-transcribes.co.uk/wp-content/uploads/2017/02/Login-background-image-resized.png");
+	background-size: 100% 720px;
+}
+.heading{
+	width: 30%;
+	margin: 20px auto 10px;
+	color: white;
+	text-align: center;
+	padding: 8px;
+}
+.data {
+	display: block;
+	text-align: left;
+	margin: 4px;
+	margin: 5px 0px 0px 10px;
+}
+.center{
+	text-align: left;
+}
+.container{
+	margin: 3% 40% 50% 40%;
+
+}
+.butn{
+	padding: 7px;
+	font-size: 15px;
+	color: white;
+	background: #696969;
+	border:none;
+	border-radius: 5px;
+}
+.a,.b,.c{
+	margin: 5px 0px 5px 0px;;
+	padding: 5px;
+	text-align: center;
+	color : white;
+	
+}
+.buttn{
+	background-color: #47DFB7;
+	padding: 5px;
+	text-align: center;
+	text-decoration : none;
+}
+
+.button{
+	padding: 0% 0% 0% 90%;
+}
